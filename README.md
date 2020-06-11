@@ -5,7 +5,7 @@
 
 Welcome to Flutter Developer CheckList, this repo will have all the Concepts for Flutter Developer to Learn and improve their skills and make note of what they missed to learn at each level of Development Stage.
 
-Here are some [Flutter Example Apps](https://github.com/irangareddy/FlutterExampleApps.git)
+Here are some [Flutter Apps](https://github.com/irangareddy/Flutter-Apps.git) Samples Checkout.
 
 
 ## If you ❤️ this CheckList then ⭐ the repo to support and **share** to your **Flutter Friends**
@@ -15,7 +15,6 @@ Here are some [Flutter Example Apps](https://github.com/irangareddy/FlutterExamp
 - main()
 - runApp()
 - **[Widgets](https://api.flutter.dev/flutter/widgets/widgets-library.html)**
-    - [MaterialApp class](https://api.flutter.dev/flutter/material/MaterialApp-class.html)
     - [Scaffold class](https://api.flutter.dev/flutter/material/Scaffold-class.html)
     - [SafeArea class](https://api.flutter.dev/flutter/widgets/SafeArea-class.html)
     - [Text class](https://api.flutter.dev/flutter/widgets/Text-class.html)
@@ -28,13 +27,15 @@ Here are some [Flutter Example Apps](https://github.com/irangareddy/FlutterExamp
     - [SizedBox class](https://api.flutter.dev/flutter/widgets/SizedBox-class.html)
         - height for Columns
         - width for Rows
-    - [RaisedButton class](https://api.flutter.dev/flutter/material/RaisedButton-class.html)
     - [Spacer class](https://api.flutter.dev/flutter/widgets/Spacer-class.html)
-    - [FlatButton class](https://api.flutter.dev/flutter/material/FlatButton-class.html)
     - [Expanded class](https://api.flutter.dev/flutter/widgets/Expanded-class.html)
-    - [Card class](https://api.flutter.dev/flutter/material/Card-class.html)
     - [Icon class](https://api.flutter.dev/flutter/widgets/Icon-class.html)
     <!-- - [StatelessWidget class](https://api.flutter.dev/flutter/widgets/StatelessWidget-class.html)
     - [StatefulWidget](https://api.flutter.dev/flutter/widgets/StatelessWidget-class.html) -->
 - **[Material Library](https://api.flutter.dev/flutter/material/material-library.html)**
+    - [MaterialApp class](https://api.flutter.dev/flutter/material/MaterialApp-class.html)
     - [CircleAvatar class](https://api.flutter.dev/flutter/material/CircleAvatar-class.html)
+    - [Card class](https://api.flutter.dev/flutter/material/Card-class.html)
+    - [FlatButton class](https://api.flutter.dev/flutter/material/FlatButton-class.html)
+    - [RaisedButton class](https://api.flutter.dev/flutter/material/RaisedButton-class.html)
+    - [LinearProgressIndicator class](https://api.flutter.dev/flutter/material/LinearProgressIndicator-class.html)
